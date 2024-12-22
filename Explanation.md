@@ -183,6 +183,7 @@ $$
 $$
 
 The $C_i$ is as follows:
+
 $$
 C_0 = \frac{1}{\sqrt{2}}, C_i = 1, \forall i > 0
 $$
